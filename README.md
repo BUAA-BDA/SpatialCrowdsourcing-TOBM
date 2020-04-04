@@ -10,6 +10,39 @@ If you use our source code or dataset, please consider citing our papers.
 [2] **Flexible Online Task Assignment in Real-Time Spatial Data.**
 *Yongxin Tong, Libin Wang, Zimu Zhou, Bolin Ding, Lei Chen, Jieping Ye, Ke Xu.* PVLDB 10(11): 1334-1345 (2017). [link](http://www.vldb.org/pvldb/vol10/p1334-tong.pdf)
 
+If you find our work helpful in your research, please consider citing our papers and the bibtex are listed below:
+```  
+@article{DBLP:journals/geoinformatica/LiFZMTZ20,
+  author    = {Yiming Li and
+               Jingzhi Fang and
+               Yuxiang Zeng and
+               Balz Maag and
+               Yongxin Tong and
+               Lingyu Zhang},
+  title     = {Two-sided online bipartite matching in spatial data: experiments and
+               analysis},
+  journal   = {GeoInformatica},
+  volume    = {24},
+  number    = {1},
+  pages     = {175--198},
+  year      = {2020},
+} 
+@article{DBLP:journals/pvldb/TongWZDCYX17,
+  author    = {Yongxin Tong and
+               Libin Wang and
+               Zimu Zhou and
+               Bolin Ding and
+               Lei Chen and
+               Jieping Ye and
+               Ke Xu},
+  title     = {Flexible Online Task Assignment in Real-Time Spatial Data},
+  journal   = {{PVLDB}},
+  volume    = {10},
+  number    = {11},
+  pages     = {1334--1345},
+  year      = {2017},
+}
+``` 
 
 Usage of the algorithms
 ---------------
