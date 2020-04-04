@@ -1,11 +1,14 @@
 TOBM: Two-sided online bipartite matching in spatial data: experiments and analysis
 ========================================================================
 
-This repository stores the source code of the solutions to the problem called TOBM in the following paper.
-If you use our source code or dataset, please consider citing our paper.
+This repository stores the source code of the solutions to the problem called TOBM in the following papers.
+If you use our source code or dataset, please consider citing our papers.
 
 [1] **Two-sided online bipartite matching in spatial data: experiments and analysis.**
 *Yiming Li, Jingzhi Fang, Yuxiang Zeng, Balz Maag, Yongxin Tong, Lingyu Zhang.* GeoInformatica 24(1): 175-198 (2020). [link](https://doi.org/10.1007/s10707-019-00359-w)
+
+[2] **Flexible Online Task Assignment in Real-Time Spatial Data.**
+*Yongxin Tong, Libin Wang, Zimu Zhou, Bolin Ding, Lei Chen, Jieping Ye, Ke Xu.* PVLDB 10(11): 1334-1345 (2017). [link](http://www.vldb.org/pvldb/vol10/p1334-tong.pdf)
 
 
 Usage of the algorithms
