@@ -66,3 +66,8 @@ predict.txt: the prediction for POLAR-OP
 guide.txt: the guide for POLAR-OP
 
 
+Contact
+------------
+- Yuxiang Zeng: yzengal@cse.ust.hk
+- Yongxin Tong: yxtong@buaa.edu.cn
+- Yiming Li: yliix@connect.ust.hk
