@@ -102,6 +102,12 @@ predict.txt: the prediction for POLAR-OP
 guide.txt: the guide for POLAR-OP
 
 
+Related resources
+------------------------
+We have maintained a paper list of the studies on spatial crowdsourcing. [link](https://github.com/BUAA-BDA/SpatialCrowdsourcing-Survey)
+
+
+
 Contact
 ------------
 - Yuxiang Zeng: yzengal@cse.ust.hk
