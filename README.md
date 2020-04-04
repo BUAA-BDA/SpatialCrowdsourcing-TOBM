@@ -19,8 +19,7 @@ If you find our work helpful in your research, please consider citing our papers
                Balz Maag and
                Yongxin Tong and
                Lingyu Zhang},
-  title     = {Two-sided online bipartite matching in spatial data: experiments and
-               analysis},
+  title     = {Two-sided online bipartite matching in spatial data: experiments and analysis},
   journal   = {GeoInformatica},
   volume    = {24},
   number    = {1},
@@ -81,7 +80,7 @@ Description of the datasets
 
 ### Synthetic dataset
 
-dataset/synthetic:
+The directory **dataset/synthetic** includes
 
 data.txt: the information of tasks and workers
 
@@ -92,6 +91,8 @@ predict.txt: the prediction for POLAR-OP
 guide.txt: the guide for POLAR-OP
 
 ### Real dataset
+
+The directory **dataset/real** includes
 
 data.txt: the information of tasks and workers
 
