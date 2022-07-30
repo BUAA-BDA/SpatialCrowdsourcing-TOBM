@@ -71,7 +71,7 @@ cd algorithm && make all
 
 ./Batch-NNP ../dataset/synthetic/data.txt
 
-./Guide ../dataset/synthetic/data.txt ../dataset/synthetic/guide.txt
+./Guide ../dataset/synthetic/predict.txt ../dataset/synthetic/guide.txt
 
 ./POLAR-OP ../dataset/synthetic/data.txt ../dataset/synthetic/guide.txt
 

@@ -287,6 +287,8 @@ int workerArrive(int wid) {
 			return 0;
 		}
 	}
+	
+	return 0;
 }
 int taskArrive(int tid) {
 	int gridid, slotid;
@@ -320,7 +322,6 @@ int taskArrive(int tid) {
 		waitMap[spatio].push_back(tid);
 		return 0;
 	}
-	
 }
 
 int solve(const string & predictFileName, const string & dataFileName){
